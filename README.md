@@ -1,4 +1,4 @@
-# json_hw
+# Data_Wrangling_With_JSON
 This repo contains my solution to a homework problem on **Data Wrangling With JSON files**.
 
 # Learning Objective
