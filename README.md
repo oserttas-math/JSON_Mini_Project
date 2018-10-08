@@ -13,6 +13,6 @@ The dataset on the World Bank projects is available in a JSON file. Project begi
 # Notes
 - Keys in key/value pairs of JSON are always of the type str. 
 - When a dictionary is converted into JSON, all the keys of the dictionary are coerced to strings. 
-- json.dump() : objects to json objects, json.load() : decode json objects to python dict using conversion table. [See documentation] (https://docs.python.org/3/library/json.html)
+- json.dump() : objects to json objects, json.load() : decode json objects to python dict using conversion table. [See documentation](https://docs.python.org/3/library/json.html)
 
 
